@@ -1,0 +1,2 @@
+// chmod +x filename.sh
+// ./filename.sh
