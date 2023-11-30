@@ -8,7 +8,6 @@ i=0
 
 while [ $i -lt $n ]
 do
-
 	read a[$i]
 	i=`expr $i + 1`
 done
